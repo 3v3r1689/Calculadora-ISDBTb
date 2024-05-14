@@ -1,0 +1,1 @@
+List<String> segmentsList = List.generate(14, (index) => (index).toString());
